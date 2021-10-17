@@ -16,6 +16,6 @@ Dropped variables:
 New variables:
 - iso2 - country subdivision code
 - year
-- age
-- sex
+- age - age ranges
+- sex - 'f' stands for female and 'm' for male
 - cases
